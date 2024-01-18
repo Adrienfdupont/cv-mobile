@@ -62,6 +62,15 @@ flutter:
   # assets:
   #   - images/a_dot_burr.jpeg
   #   - images/a_dot_ham.jpeg
+  assets:
+      - assets/profile_page/about_me.txt
+      - assets/profile_page/picture.jpg
+      - assets/profile_page/angular-logo.png
+      - assets/profile_page/nest-js-logo.png
+      - assets/profile_page/symfony-logo.png
+      - assets/schooling-page/uk-flag.png
+      - assets/schooling-page/germany-flag.png
+      - assets/schooling-page/netherlands-flag.png
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
